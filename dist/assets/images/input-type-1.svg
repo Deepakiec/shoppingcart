@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icons / Questionnaire / Input-Data-01</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons-/-Questionnaire-/-Input-Data-01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(40.000000, 40.000000) scale(-1, 1) translate(-40.000000, -40.000000) translate(0.000000, 6.000000)">
+            <polygon id="Path" fill="#F2F2F2" fill-rule="nonzero" points="78.9476343 27.0552328 33.7645659 -8.8817842e-14 1.51929894 17.4709171 47.8530462 44.6230426"></polygon>
+            <polygon id="Path-5" fill="#E8E8E8" points="1.51929894 17.4709171 1.51929894 40.5272883 47.1854647 67.1683939 47.8530462 44.6230426"></polygon>
+            <polygon id="Path-6" fill="#EEEEEE" points="47.8530462 44.6230426 47.1854647 67.1683939 78.9476343 48.1634338 78.9476343 27.0552328"></polygon>
+            <polygon id="Path-7" fill="#0067df" points="13.6585674 19.3371789 16.615911 21.3426484 39.934159 9.09329048 36.5038018 7.13361204"></polygon>
+            <polygon id="Path-7-Copy" fill="#0067df" points="20.3252341 22.6814412 23.2825777 24.6869107 46.6008257 12.4375528 43.1704685 10.4778743"></polygon>
+            <polygon id="Path-9" fill="#D8D8D8" points="59.2075431 50.0346334 72.4895777 42.3196555 58.8000696 50.9673386"></polygon>
+            <path d="M50.3010338,50.8428563 L66.7714102,40.9612937 L55.6347153,55.0148326 C54.6978208,53.3755115 53.9041395,52.3014545 53.2536713,51.7926619 C52.6032031,51.2838692 51.6189906,50.9672674 50.3010338,50.8428563 Z" id="Path-8" fill="#FFFFFF"></path>
+            <polygon id="Path-10" fill="#D8D8D8" points="38.9643224 43.5386432 47.7319427 49.6905974 54.8170599 45.0432202 47.7319427 47.9880631"></polygon>
+            <polygon id="Path-12" fill="#D8D8D8" points="15.2130649 38.2973416 35.7148727 50.2654896 10.6176616 36.5811594"></polygon>
+            <path d="M3.30072185,25.8212713 C1.51340622,27.4666878 0.413165606,30.2621891 -8.8817842e-14,34.2077753 C6.84486245,35.1462744 21.4895714,40.3072151 43.9341268,49.6905974 L3.30072185,25.8212713 Z" id="Path-11" fill="#FFFFFF"></path>
+            <polygon id="Path-13" fill="#D8D8D8" points="32.0308532 55.3518662 47.1854647 64.9521572 57.5596374 58.4471296 47.1854647 63.5378465"></polygon>
+        </g>
+    </g>
+</svg>
